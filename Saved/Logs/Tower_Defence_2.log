@@ -2515,3 +2515,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.15-10.11.26:982][732]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2022.11.15-10.11.31:608][282]LogSlate: Window 'Message Log' being destroyed
 [2022.11.15-10.11.31:612][282]LogSlate: Window 'Message Log' being destroyed
+[2022.11.15-10.11.56:366][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.15-10.11.56:396][806]LogSavePackage: Moving '../../../../liam/chaso/git/tower2/towerdefence/Saved/ThirdPersonExampleMap_Auto4DA6A0AF942845375F6207AA91414B48E.tmp' to '../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.11.15-10.11.56:396][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.080
+[2022.11.15-10.11.56:397][806]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.11.15-10.11.56:397][806]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/towerdefence/base/tower] ([2] browsable assets)...
+[2022.11.15-10.11.56:414][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/towerdefence/base/tower.tower]
+[2022.11.15-10.11.56:414][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/towerdefence/base/tower]
+[2022.11.15-10.11.56:414][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/towerdefence/base/tower" FILE="../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/towerdefence/base/tower_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.11.15-10.11.56:433][806]LogSavePackage: Moving '../../../../liam/chaso/git/tower2/towerdefence/Saved/tower_Auto4316F2A054FE6940CAE5E86A698FB2978.tmp' to '../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/towerdefence/base/tower_Auto4.uasset'
+[2022.11.15-10.11.56:434][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ui/turrentcreation] ([2] browsable assets)...
+[2022.11.15-10.11.56:434][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/turrentcreation]
+[2022.11.15-10.11.56:434][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/turrentcreation" FILE="../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ui/turrentcreation_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.11.15-10.11.56:444][806]LogSavePackage: Moving '../../../../liam/chaso/git/tower2/towerdefence/Saved/turrentcreation_Auto4796344D741956115602680ACDABA9D4B.tmp' to '../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ui/turrentcreation_Auto4.uasset'
+[2022.11.15-10.11.56:444][806]LogFileHelpers: Auto-saving content packages took 0.048
