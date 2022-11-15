@@ -2529,3 +2529,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.15-10.11.56:434][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/turrentcreation" FILE="../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ui/turrentcreation_Auto4.uasset" SILENT=false AUTOSAVING=true
 [2022.11.15-10.11.56:444][806]LogSavePackage: Moving '../../../../liam/chaso/git/tower2/towerdefence/Saved/turrentcreation_Auto4796344D741956115602680ACDABA9D4B.tmp' to '../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ui/turrentcreation_Auto4.uasset'
 [2022.11.15-10.11.56:444][806]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.11.15-10.39.19:353][627]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.11.15-10.39.21:023][774]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2022.11.15-10.39.21:056][774]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-10.39.21:056][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-10.39.21:117][774]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.11.15-10.40.42:060][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.15-10.40.42:061][ 20]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.063
+[2022.11.15-10.40.42:061][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([2] browsable assets)...
+[2022.11.15-10.40.42:061][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2022.11.15-10.40.42:063][ 20]LogSavePackage: Moving '../../../../liam/chaso/git/tower2/towerdefence/Saved/ThirdPersonGameMode_Auto59CEC3C854709C96D860F1794CDA988E7.tmp' to '../../../../liam/chaso/git/tower2/towerdefence/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto5.uasset'
+[2022.11.15-10.40.42:064][ 20]LogFileHelpers: Auto-saving content packages took 0.003
+[2022.11.15-10.41.40:699][813]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2022.11.15-10.41.40:750][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.15-10.43.07:807][222]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2022.11.15-10.43.07:865][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
